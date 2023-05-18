@@ -51,13 +51,14 @@ p {
 }
 
 .hero {
-    height: 800px;
+    height: 400px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
+/* height was adjusted for image so SEO is visible*/
 
 .float-left {
     float: left;
@@ -139,7 +140,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #00b5bb;
     color: #ffffff;
 }
 
@@ -157,20 +158,21 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #00bba2;
     color: #ffffff;
 }
 
 .search-engine-optimization img {
-    max-height: 200px;
+    max-height: 100px;
+    max-width: 100px;
 }
 
 .online-reputation-management img {
-    max-height: 200px;
+    max-height: 100px;
 }
 
 .social-media-marketing img {
-    max-height: 200px;
+    max-height: 100px;
 }
 
 .search-engine-optimization h2 {
